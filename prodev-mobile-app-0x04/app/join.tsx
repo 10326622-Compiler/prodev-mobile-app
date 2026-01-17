@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
-import { styles } from '@/styles/_ joinstyle';
+import { styles } from '@/styles/_join';
 import { HEROLOGOGREEN, GOOGLELOGO, FACEBOOKLOGO } from '@/constants';
 
 export default function Join() {
